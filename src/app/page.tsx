@@ -43,7 +43,7 @@ export default function Home() {
         <section>
           <h2>macOS</h2>
           <p>
-            For macOS users, open your Terminal and run the command (same as Ubuntu):
+            For macOS users, open your Terminal and run the command (same as ubuntu):
           </p>
           <pre>
             <code>
